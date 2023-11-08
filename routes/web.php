@@ -13,9 +13,9 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome_old');
-});
+Route:view('/', 'welcome');
+
+
 // Route::get('/ola', function () {
 //     return view('profile');
 // });
