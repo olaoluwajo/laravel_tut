@@ -1,0 +1,3 @@
+<html>
+   Profile page
+</html>
